@@ -1,4 +1,5 @@
 # NixOS on Lichee RV
+Actually, just go here: https://github.com/chuangzhu/nixos-sun20iw1p1
 
 ## Resources/links
 - https://linux-sunxi.org/Sipeed_Lichee_RV
