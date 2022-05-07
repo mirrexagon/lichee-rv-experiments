@@ -12,7 +12,7 @@ import requests
 BASE_URL = "https://dl.sipeed.com/fileList/"
 
 def main():
-    download_dir("LICHEE/D1/Lichee_RV/HDK")
+    download_dir("LICHEE/D1/Lichee_RV")
     download_dir("LICHEE/D1/Lichee_RV-Dock")
     download_dir("LICHEE/D1/Lichee_RV_86_panel")
 
